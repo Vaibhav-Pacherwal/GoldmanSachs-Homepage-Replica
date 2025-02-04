@@ -52,5 +52,8 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 This project is for educational purposes only and is not affiliated with Goldman Sachs in any way.
 
+## Demo
+[![Demo](./Video/04-GSR-VIDEO.mp4)](https://github.com/Vaibhav-Pacherwal/GoldmanSachs-Homepage-Replica/blob/main/Video/04-GSR-VIDEO.mp4)
+
 
 
